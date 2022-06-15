@@ -1,0 +1,1 @@
+import{S as t,i as n,s as a}from"../chunks/index-ca2f52f9.js";async function r(e,s){return this.redirect(301,"docs")}class i extends t{constructor(s){super(),n(this,s,null,null,a,{})}}export{i as default,r as preload};
